@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Test React App with Jest
 
 > One paragraph statement about the project.
 
